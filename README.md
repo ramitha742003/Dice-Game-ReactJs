@@ -1,5 +1,6 @@
 # DICE GAME
 
-This application is a ReactJs (frontend) based Dice Game where we select any number and click on dice image. 
-After you click on dice if selected number is equal to dice number you will get same point as dice but if you get wrong guess then two points will be deducted. 
+This is a front-end dice game application where we select any number and click on the dice image. 
+After you click on dice if the selected number is equal to the dice number you will get the same point as dice but if you get the wrong guess then 2 points will be deducted.
+Tools used: ReactJS.
 
